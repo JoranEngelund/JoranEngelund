@@ -21,6 +21,8 @@ It's me, Jøran Engelund :smile:
 - 🌱 I’m currently learning ```JavaScript``` & ```CSS FrameWorks```
 - 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [Facebook](https://www.facebook.com/joranengelund)
 
+## Education :mortar_board:
+- 2nd year on Front-End Development studies at Noroff Vocational School of Media and Technology
 
 ## My skills & Tools
 - ```HTML``` | ```JavaScript``` | ```CSS```
