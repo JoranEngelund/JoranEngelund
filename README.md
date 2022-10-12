@@ -8,7 +8,7 @@ It's me, Jøran Engelund :smile:
 > I find front-end as giving, creative and exciting as I can see ideas, solutions and designs unfold and be created before my eyes, like a digital carpenter. I find solving problems and discussing various solutions as a mind game and it is mildly said, a thrill. In my free-time, I'm usually driving on my motorcycle either if it's the country roads or a track.
 
 ## My interests:
-- At my free time, I like driving around on my motorcycle
+- At my free time, I like driving around on my [motorcycle](https://www.instagram.com/jaywithsway/)
 - I enjoy playing disc golf
 - I follow sports like MotoGP, NBA and the Norwegian national team in football
 - I like to watch live shows
