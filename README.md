@@ -15,14 +15,14 @@ It's me, Jøran Engelund :smile:
 - Watching a movie in the evening is hard to beat
 - Strategy games are a good mind stimuli
 
-### Projects | Learning | Contact
+## Projects | Learning | Contact
 
 - 🔭 I’m currently working on [My portfolio](https://joranengelund.github.io/#home)
-- 🌱 I’m currently learning ```JavaScript``` ```CSS FrameWorks```
+- 🌱 I’m currently learning ```JavaScript``` & ```CSS FrameWorks```
 - 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [Facebook](https://www.facebook.com/joranengelund)
 
 
-### My skills & Tools
+## My skills & Tools
 - ```HTML``` | ```JavaScript``` | ```CSS```
 - ```WP REST API``` | ```WordPress```
 - ```Responsive Website Design```
