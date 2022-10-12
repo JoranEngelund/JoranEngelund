@@ -12,13 +12,13 @@ It's me, Jøran Engelund :smile:
 - I enjoy playing disc golf
 - I follow sports like MotoGP, NBA and the Norwegian national team in football
 - I like to watch live shows
-- Watching a movie on the evening is hard to beat
-- Strategy games are good mind stimuli
+- Watching a movie in the evening is hard to beat
+- Strategy games are a good mind stimuli
 
 ### 
 
-- 🔭 I’m currently working on 
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently working on [My portfolio](https://joranengelund.github.io/#home)
+- 🌱 I’m currently learning ```javascript```
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
