@@ -2,6 +2,8 @@
 
 It's me, Jøran Engelund :smile:
 
+I would love if you visited [my portfolio](https://joranengelund.github.io/#home)
+
 ## About me
 > I live and eat in Oslo, Norway. I am currently at full-time studies as a front-end developer at Noroff Vocational School of Technology and Digital Media. I started this studies because in the latter years I have found coding to be a passion. In my youth, I created what we called "home-pages" aka blogs, where you can create your own media-website through a CMS with a strict set of tools.
 
@@ -17,7 +19,7 @@ It's me, Jøran Engelund :smile:
 
 ## Projects | Learning | Contact
 
-- 🔭 I’m currently working on [My portfolio](https://joranengelund.github.io/#home)
+- 🔭 I’m currently working on Social Media Application as a school project
 - 🌱 I’m currently learning ```JavaScript```
 - 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [Facebook](https://www.facebook.com/joranengelund)
 
