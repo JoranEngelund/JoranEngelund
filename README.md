@@ -36,3 +36,4 @@ I would love if you visited [my portfolio](https://joranengelund.github.io/#home
 - ```SEO Optimalization```
 - ```Visual Studio Code```
 - ```Adobe Xd``` | ```Adobe Illustrator```
+- ```UI``` | ```UX``` | ```Interaction Design (IxD)```
