@@ -19,7 +19,7 @@ I would love if you visited [my portfolio](https://joranengelund.github.io/#home
 
 ## Projects | Learning | Contact
 
-- 🔭 I’m currently working on Social Media Application as a school project
+- 🔭 I’m currently working on a Social Media Application as a school project
 - 🌱 I’m currently learning ```JavaScript```
 - 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [Facebook](https://www.facebook.com/joranengelund)
 
@@ -29,7 +29,7 @@ I would love if you visited [my portfolio](https://joranengelund.github.io/#home
 ## My skills & Tools
 - ```HTML``` | ```JavaScript``` | ```CSS```
 - ```Bootstrap``` | ```SASS/SCSS```
-- - ```Node.js``` | ```PowerShell / Git Bash```
+- ```Node.js``` | ```PowerShell / Git Bash```
 - ```WordPress Headless CMS``` | ```WordPress```
 - ```Responsive Website Design```
 - ```Web Accessibility``` 
