@@ -29,7 +29,8 @@ I would love if you visited [my portfolio](https://joranengelund.github.io/#home
 ## My skills & Tools
 - ```HTML``` | ```JavaScript``` | ```CSS```
 - ```Bootstrap``` | ```SASS/SCSS```
-- ```WP REST API``` | ```WordPress```
+- - ```Node.js``` | ```PowerShell / Git Bash```
+- ```WordPress Headless CMS``` | ```WordPress```
 - ```Responsive Website Design```
 - ```Web Accessibility``` 
 - ```SEO Optimalization```
