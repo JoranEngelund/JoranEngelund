@@ -17,8 +17,9 @@ I would love if you visited [my portfolio](https://joranengelund.github.io/#home
 - Watching a movie in the evening is hard to beat
 - Strategy games are a good mind stimuli
 
-## Projects | Learning | Contact
-
+## Projects | Learning | Contact 
+- Take a look at my projects: 
+- [LifeBloggers](https://lifebloggers.netlify.app/index.html) | [Community Science Museum](https://museumsciencecommunity.netlify.app/) | [Square Eyes (Movie streaming site)](https://eyessquare.netlify.app/index.html)
 - 🔭 I’m currently working on a Social Media Application as a school project
 - 🌱 I’m currently learning ```JavaScript```
 - 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [Facebook](https://www.facebook.com/joranengelund)
