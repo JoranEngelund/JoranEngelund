@@ -18,10 +18,8 @@ I would love if you visited [my portfolio](https://joranengelund.github.io/#home
 - Strategy games are a good mind stimuli
 
 ## Projects | Learning | Contact 
-- Take a look at my projects: 
-- - [LifeBloggers](https://lifebloggers.netlify.app/index.html) - [GitHub Repo](https://github.com/Noroff-FEU-Assignments/project-exam-1-JoranEngelund) | [Community Science Museum](https://museumsciencecommunity.netlify.app/) - [GitHub Repo](https://github.com/JoranEngelund/semesterproject1) | [Square Eyes (Movie streaming site)](https://eyessquare.netlify.app/index.html) - [GitHub Repo](https://github.com/Noroff-FEU-Assignments/cross-course-project-JoranEngelund)
-- 🔭 I’m currently working on a Social Media Application as a school project
-- 🌱 I’m currently learning ```JavaScript```
+- 🔭 I’m currently working on my learning
+- 🌱 I’m currently learning ```Workflow, e2e, cypress, Unit-testing```
 - 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [Facebook](https://www.facebook.com/joranengelund)
 
 ## Education :mortar_board:
