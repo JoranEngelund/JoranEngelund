@@ -20,7 +20,7 @@ I would love if you visited [my portfolio](https://joranengelund.github.io/#home
 ## Projects | Learning | Contact 
 - 🔭 I’m currently working on my learning
 - 🌱 I’m currently learning ```Workflow, e2e, cypress, Unit-testing```
-- 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [Facebook](https://www.facebook.com/joranengelund)
+- 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [LinkedIn](https://www.linkedin.com/in/j%C3%B8ran-engelund-937649252/)
 
 ## Education :mortar_board:
 - 2nd year on Front-End Development studies at Noroff Vocational School of Media and Technology
@@ -28,7 +28,7 @@ I would love if you visited [my portfolio](https://joranengelund.github.io/#home
 ## My skills & Tools
 - ```HTML``` | ```JavaScript``` | ```CSS```
 - ```Bootstrap``` | ```SASS/SCSS```
-- ```Node.js``` | ```PowerShell / Git Bash```
+- ```Git``` | ```PowerShell / Git Bash```
 - ```WordPress Headless CMS``` | ```WordPress```
 - ```Responsive Website Design```
 - ```Web Accessibility``` 
