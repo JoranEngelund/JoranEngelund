@@ -18,7 +18,7 @@ I would love if you visited [my portfolio](https://joranengelund.github.io/#home
 - Strategy games are a good mind stimuli
 
 ## Projects | Learning | Contact 
-- 🔭 I’m currently working on developing an eCommerce site - JavaScript Frameworks Course Assignment
+- 🔭 I’m currently working on developing a [booking accommodation](https://github.com/JoranEngelund/holidaze_pe2/tree/dev) app for the Project Exam 2, in my Front-End Dev studies
 - 🌱 I’m currently learning ```JavaScript Frameworks (React)```
 - 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [LinkedIn](https://www.linkedin.com/in/j%C3%B8ran-engelund-937649252/)
 
