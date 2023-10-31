@@ -23,7 +23,7 @@ I would love if you visited [my portfolio](https://engelundutvikling.no)
 - 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [LinkedIn](https://www.linkedin.com/in/j%C3%B8ran-engelund-937649252/)
 
 ## Education :mortar_board:
-- 2nd year on Front-End Development studies at Noroff Vocational School of Media and Technology
+- Graduated Front-End Developer from Noroff Vocational School of Media and Technology
 
 ## My skills & Tools
 - ```HTML``` | ```JavaScript``` | ```React``` | ```CSS```
