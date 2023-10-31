@@ -2,7 +2,7 @@
 
 It's me, Jøran Engelund :smile:
 
-I would love if you visited [my portfolio](https://joranengelund.github.io/#home)
+I would love if you visited [my portfolio](https://engelundutvikling.no)
 
 ## About me
 > I live and eat in Oslo, Norway. I am currently at full-time studies as a front-end developer at Noroff Vocational School of Technology and Digital Media. I started this studies because in the latter years I have found coding to be a passion. In my youth, I created what we called "home-pages" aka blogs, where you can create your own media-website through a CMS with a strict set of tools.
@@ -18,7 +18,7 @@ I would love if you visited [my portfolio](https://joranengelund.github.io/#home
 - Strategy games are a good mind stimuli
 
 ## Projects | Learning | Contact 
-- 🔭 I’m currently working on developing a [booking accommodation](https://github.com/JoranEngelund/holidaze_pe2/tree/dev) app for the Project Exam 2, in my Front-End Dev studies
+- 🔭 I’m currently working on developing integrated forms for [Engelund Termofrakt AS](https://www.termofrakt.no/)
 - 🌱 I’m currently learning ```JavaScript Frameworks (React)```
 - 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [LinkedIn](https://www.linkedin.com/in/j%C3%B8ran-engelund-937649252/)
 
