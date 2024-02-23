@@ -9,6 +9,20 @@ I would love if you visited [my portfolio](https://engelundutvikling.no)
 
 > I find front-end as giving, creative and exciting as I can see ideas, solutions and designs unfold and be created before my eyes, like a digital carpenter. I find solving problems and discussing various solutions as a mind game and it is mildly said, a thrill. In my free-time, I'm usually driving on my motorcycle either if it's the country roads or a track.
 
+## Projects 
+- Last projects:
+-   - [Termofrakt.no](https://www.termofrakt.no/)
+- 
+
+## Learning | Contact 
+- 🔭 I’m currently studying ```Back-end Development```
+- 🌱 I’m currently learning ```jQuery```
+- 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [LinkedIn](https://www.linkedin.com/in/j%C3%B8ran-engelund-937649252/)
+
+## Education :mortar_board:
+- Studying 2 years of Back-end Development at Noroff
+- Graduated higher professional degree as Front-End Developer from Noroff Vocational School of Media and Technology
+
 ## My interests
 - At my free time, I like driving around on my [motorcycle](https://www.instagram.com/jaywithsway/)
 - I enjoy playing disc golf
@@ -17,14 +31,6 @@ I would love if you visited [my portfolio](https://engelundutvikling.no)
 - Watching a movie in the evening is hard to beat
 - Strategy games are a good mind stimuli
 
-## Projects | Learning | Contact 
-- 🔭 I’m currently studying ```Back-end Development```
-- 🌱 I’m currently learning ```jQuery```
-- 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [LinkedIn](https://www.linkedin.com/in/j%C3%B8ran-engelund-937649252/)
-
-## Education :mortar_board:
-- Studying 2 years in Back-end Development at Noroff
-- Graduated higher professional degree as Front-End Developer from Noroff Vocational School of Media and Technology
 
 ## My skills & Tools
 - ```HTML``` | ```JavaScript``` | ```React.js``` | ```CSS``` | ```jQuery```
