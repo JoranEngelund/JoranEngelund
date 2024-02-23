@@ -18,15 +18,16 @@ I would love if you visited [my portfolio](https://engelundutvikling.no)
 - Strategy games are a good mind stimuli
 
 ## Projects | Learning | Contact 
-- 🔭 I’m currently working on developing integrated forms for [Engelund Termofrakt AS](https://www.termofrakt.no/)
-- 🌱 I’m currently learning ```JavaScript Frameworks (React)```
+- 🔭 I’m currently studying ```Back-end Development```
+- 🌱 I’m currently learning ```jQuery```
 - 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [LinkedIn](https://www.linkedin.com/in/j%C3%B8ran-engelund-937649252/)
 
 ## Education :mortar_board:
+- Studying 2 years in Back-end Development at Noroff
 - Graduated higher professional degree as Front-End Developer from Noroff Vocational School of Media and Technology
 
 ## My skills & Tools
-- ```HTML``` | ```JavaScript``` | ```React``` | ```CSS```
+- ```HTML``` | ```JavaScript``` | ```React.js``` | ```CSS``` | ```jQuery```
 - ```Bootstrap``` | ```SASS/SCSS```
 - ```Git``` | ```PowerShell / Git Bash```
 - ```WordPress Headless CMS``` | ```WordPress```
