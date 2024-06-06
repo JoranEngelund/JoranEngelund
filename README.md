@@ -17,7 +17,7 @@ I would love if you visited [my portfolio](https://engelundutvikling.no)
 
 ## Learning | Contact 
 - 🔭 I’m currently studying ```Back-end Development```
-- 🌱 I’m currently learning ```jQuery```
+- 🌱 I’m currently learning ```JavaScript Servers```
 - 📫 How to reach me: [Mail](mailto:joranengelund@hotmail.com) | [Instagram](https://www.instagram.com/joranengelund/) | [LinkedIn](https://www.linkedin.com/in/j%C3%B8ran-engelund-937649252/)
 
 ## Education :mortar_board:
