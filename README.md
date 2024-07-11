@@ -11,7 +11,7 @@ I would love if you visited [my portfolio](https://engelundutvikling.no)
 
 ## Projects 
 - Last projects:
--   - [Termofrakt.no](https://www.termofrakt.no/) | [Repo](https://github.com/JoranEngelund/engelundtermofrakt)
+   - [Termofrakt.no](https://www.termofrakt.no/) | [Repo](https://github.com/JoranEngelund/engelundtermofrakt)
     - [Holidaze](https://holidazes.netlify.app/) | [Repo](https://github.com/JoranEngelund/holidaze_pe2)
     - [Bidit](https://github.com/JoranEngelund/semester-project-2) | [Repo](https://github.com/JoranEngelund/semester-project-2)
 
